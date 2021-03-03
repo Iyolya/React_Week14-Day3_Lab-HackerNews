@@ -1,4 +1,4 @@
-import NewsContainer from '../containers/NewsContainer.js'
+import NewsContainer from './containers/NewsContainer.js'
 import React from 'react';
 import './App.css';
 
