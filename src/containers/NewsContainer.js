@@ -8,7 +8,6 @@ const NewsContainer = () => {
     return (
 
         <>
-            <p>News Container</p>
             <Title/>
             <Form/>
             <NewsItemList/>
